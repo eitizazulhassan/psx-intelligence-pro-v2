@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-23T19:44:48.777687+05:00",
-  "fresh_symbols": 501,
-  "total_symbols": 1067,
-  "retained_old_symbols": 7,
+  "generated_at": "2026-11-24T19:43:40.955685+05:00",
+  "fresh_symbols": 502,
+  "total_symbols": 1068,
+  "retained_old_symbols": 8,
   "failed_symbols": 566,
   "latest_dates": [
+    "2026-11-24",
     "2026-11-23",
     "2026-11-20",
     "2026-11-19",
-    "2026-11-18",
-    "2026-11-12"
+    "2026-11-18"
   ]
 }
